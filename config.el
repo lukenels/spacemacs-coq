@@ -9,6 +9,6 @@
 ;;
 ;;; License: GPLv3
 
-(defvar proof-general-path "/usr/local/share/emacs/site-lisp/proof-general/generic/proof-site"
+(defvar proof-general-path "~/.emacs.d/private/coq/PG/generic/proof-site"
   "The path to proof general")
 
